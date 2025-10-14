@@ -37,11 +37,19 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1197" height="683" alt="Screenshot 2025-10-14 160938" src="https://github.com/user-attachments/assets/490ecba5-c13f-465d-a956-9dbd8ee5ef0f" />
-
-<img width="1198" height="688" alt="Screenshot 2025-10-14 161036" src="https://github.com/user-attachments/assets/b67514d8-64f4-46fc-a714-36fb42ec1feb" />
+<img width="1364" height="767" alt="Screenshot 2025-10-14 200401" src="https://github.com/user-attachments/assets/0cb6a255-d98b-4efe-bca9-39bf7e9080dc" />
+<img width="1365" height="767" alt="Screenshot 2025-10-14 200413" src="https://github.com/user-attachments/assets/37ed5d0e-8177-46b2-bdb5-84ad9d56467f" />
 
 ---
+📝 Changelov v1.5.0
+- SVG Navigation Buttons: Two new buttons (◄ and ►) have been added above the image display. These buttons are designed to be semi-transparent and appear on the left and right sides.
+
+- Navigation Logic: The app now keeps track of the list of images in the currently viewed folder. When you press a navigation button, the app displays the next or previous image in the same order (based on the selected sorting method).
+
+- Keyboard Shortcuts: You can now use the left and right arrow keys on your keyboard to navigate between images.
+
+---
+
 - 🧱 **Frameless UI**
 - Custom draggable, resizable, and maximized windows.
 - Minimalist toolbar with SVG icons.
