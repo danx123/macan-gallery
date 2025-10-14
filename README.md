@@ -1,4 +1,4 @@
-# 🐯 Macan Gallery
+# 🐯 Macan Gallery Pro
 
 Macan Gallery is a modern gallery application developed with Python, PySide6, and OpenCV.
 
@@ -37,16 +37,33 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1364" height="767" alt="Screenshot 2025-10-14 200401" src="https://github.com/user-attachments/assets/0cb6a255-d98b-4efe-bca9-39bf7e9080dc" />
-<img width="1365" height="767" alt="Screenshot 2025-10-14 200413" src="https://github.com/user-attachments/assets/37ed5d0e-8177-46b2-bdb5-84ad9d56467f" />
+<img width="1197" height="690" alt="Screenshot 2025-10-15 012817" src="https://github.com/user-attachments/assets/8ee212e9-af44-4c8f-b7e8-0400a51069a5" />
+
+<img width="1198" height="688" alt="Screenshot 2025-10-15 012855" src="https://github.com/user-attachments/assets/b3589be5-2d69-4b2d-89c0-5ed24ad90da9" />
 
 ---
-📝 Changelov v1.5.0
-- SVG Navigation Buttons: Two new buttons (◄ and ►) have been added above the image display. These buttons are designed to be semi-transparent and appear on the left and right sides.
+📝 Changelov v2.0.0
+Improvement Summary:
+- Fullscreen Mode: Immersive, uninterrupted viewing by pressing F11.
+- Automatic Slideshow: Enjoy your image collection automatically at a customizable interval.
 
-- Navigation Logic: The app now keeps track of the list of images in the currently viewed folder. When you press a navigation button, the app displays the next or previous image in the same order (based on the selected sorting method).
+- Metadata Panel (EXIF Info): View detailed camera information (model, shutter speed, ISO, etc.) right next to the image.
 
-- Keyboard Shortcuts: You can now use the left and right arrow keys on your keyboard to navigate between images.
+- Star Rating & Color Labels: Organize and manage your photos professionally with a 5-star rating system and color labels (Red, Yellow, Green, Blue).
+
+- Filter by Rating/Label: Filter the gallery to only display images with a specific rating or color label.
+
+- Delete Function (Move to Trash): Securely delete images (move them to the Recycle Bin/Trash) directly from the app.
+
+- Basic Image Editor:
+Rotation: Rotate images 90 degrees left or right.
+Flip: Flip images horizontally or vertically.
+Changes are saved directly to the original file with confirmation.
+
+- UI/UX Improvements:
+Dedicated Toolbar in Image Viewer: Quick access to rotate, delete, info, and slideshow functions.
+Rating Display in Thumbnails: See star ratings directly in the gallery view.
+New Icons & Tooltips: Clearer and more descriptive icons with tooltips for each button.
 
 ---
 
