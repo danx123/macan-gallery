@@ -37,34 +37,33 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1197" height="690" alt="Screenshot 2025-10-15 012817" src="https://github.com/user-attachments/assets/8ee212e9-af44-4c8f-b7e8-0400a51069a5" />
+<img width="1365" height="767" alt="Screenshot 2025-10-15 213639" src="https://github.com/user-attachments/assets/c18dd94f-e8ca-4b36-8eb8-526d861d41da" />
 
-<img width="1198" height="688" alt="Screenshot 2025-10-15 012855" src="https://github.com/user-attachments/assets/b3589be5-2d69-4b2d-89c0-5ed24ad90da9" />
 
 ---
-📝 Changelov v2.0.0
-Improvement Summary:
-- Fullscreen Mode: Immersive, uninterrupted viewing by pressing F11.
-- Automatic Slideshow: Enjoy your image collection automatically at a customizable interval.
+📝 Changelov v2.5.1
+Major Updates and Fixes (v2.0.0 → v2.5.1)
+🐞 Improvements and Stability
+Version Update: The app version number has been updated from 2.0.0 to 2.5.1.
 
-- Metadata Panel (EXIF Info): View detailed camera information (model, shutter speed, ISO, etc.) right next to the image.
+Comment Fix: The version comment indicates a "slider fix."
 
-- Star Rating & Color Labels: Organize and manage your photos professionally with a 5-star rating system and color labels (Red, Yellow, Green, Blue).
+🚀 Performance Improvements
+Faster Thumbnail Loading: The thumbnail worker logic (ThumbnailWorker.run) now emits a thumbnail_ready signal as soon as it encounters a cached thumbnail image. This makes the gallery view feel more responsive when loading previously cached images (previously, it would wait until all worker processes were completed or simply skip without notifying the UI).
 
-- Filter by Rating/Label: Filter the gallery to only display images with a specific rating or color label.
+✨ New Features and Internals
+NumPy Support: Added import of the numpy library. This addition is typically required for advanced image processing operations using cv2 (OpenCV).
 
-- Delete Function (Move to Trash): Securely delete images (move them to the Recycle Bin/Trash) directly from the app.
+Image Editing Foundation: Added new internal variables to the main class (MacanGallery) to support image editing features, such as:
 
-- Basic Image Editor:
-Rotation: Rotate images 90 degrees left or right.
-Flip: Flip images horizontally or vertically.
-Changes are saved directly to the original file with confirmation.
+self.original_pixmap_for_editing (storing the original image for editing).
 
-- UI/UX Improvements:
-Dedicated Toolbar in Image Viewer: Quick access to rotate, delete, info, and slideshow functions.
-Rating Display in Thumbnails: See star ratings directly in the gallery view.
-New Icons & Tooltips: Clearer and more descriptive icons with tooltips for each button.
+self.original_cv_image (storing the original OpenCV image object).
 
+self.current_edits (storing the current editing state, such as brightness, contrast, and saturation).
+
+🔨 Code Refactoring and Cleanliness
+Variable Naming: Changed the variable in the FolderThumbnailWidget from videos_to_preview to images_to_preview. This is a minor code cleanup to better fit the context of an image gallery application.
 ---
 
 - 🧱 **Frameless UI**
