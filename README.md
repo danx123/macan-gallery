@@ -37,16 +37,19 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1365" height="767" alt="Screenshot 2025-10-15 213639" src="https://github.com/user-attachments/assets/c18dd94f-e8ca-4b36-8eb8-526d861d41da" />
+<img width="1009" height="686" alt="Screenshot 2025-10-21 012431" src="https://github.com/user-attachments/assets/73718fe7-af63-44df-98b4-c59244f47fcb" />
+
 
 
 ---
-📝 Changelov v2.5.1
-Major Updates and Fixes (v2.0.0 → v2.5.1)
-🐞 Improvements and Stability
-Version Update: The app version number has been updated from 2.0.0 to 2.5.1.
+📝 Changelov v2.6.0
+- Added Selection Checkboxes: Each ThumbnailWidget (individual image) will have a checkbox. This allows you to select multiple images.
 
-Comment Fix: The version comment indicates a "slider fix."
+- Selection Functions: Added logic to track selected files, as well as context menus (right-click) for "Select All," "Deselect All," and performing bulk actions (delete, rate, label) on selected items.
+
+- Changed Color Scheme: Replaced the "Nordic dark blue" color theme with the more neutral "Black/Dark" theme. All dark blue background colors will be changed to very dark gray or black, and all text will be made white (#FFFFFF).
+
+- Reduced Button Sizes: Reduced the padding on QPushButtons and QToolButtons throughout the application, and reduced the size of the navigation buttons (left/right arrows) in the viewer to make them less bulky.
 
 🚀 Performance Improvements
 Faster Thumbnail Loading: The thumbnail worker logic (ThumbnailWorker.run) now emits a thumbnail_ready signal as soon as it encounters a cached thumbnail image. This makes the gallery view feel more responsive when loading previously cached images (previously, it would wait until all worker processes were completed or simply skip without notifying the UI).
