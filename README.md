@@ -43,10 +43,11 @@ It is designed as a professional gallery manager with high performance, an elega
 
 
 ---
-📝 Changelov v3.0.0
-- Fix icon run slideshow
-- Added new icon "Pause" for stop/pause slideshow
-- Added Keyboard shortcut "ESC" to stop slideshow
+📝 Changelov v3.2.0
+- Added zoom in/out function using mouse scroll
+- Added CTRL + A function to select all
+- Added unlimited file drag function
+- Added badge function (displays the number of files when dragged)
 ---
 
 - 🧱 **Frameless UI**
