@@ -37,17 +37,16 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1008" height="685" alt="Screenshot 2025-10-22 193609" src="https://github.com/user-attachments/assets/7063292e-4fdf-40ab-b7b4-41155a3743ad" />
+<img width="1080" height="1920" alt="macan-gallery-pro-v322-github-post" src="https://github.com/user-attachments/assets/6118b5dc-833a-441c-980e-4a782a02be2e" />
+
 
 
 
 
 ---
-📝 Changelov v3.2.0
-- Added zoom in/out function using mouse scroll
-- Added CTRL + A function to select all
-- Added unlimited file drag function
-- Added badge function (displays the number of files when dragged)
+📝 Changelov v3.2.2
+- Added icon svg toolbar (set as wallpaper)
+- Added new context menu (set as wallpaper)
 ---
 
 - 🧱 **Frameless UI**
