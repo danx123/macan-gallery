@@ -37,16 +37,20 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1080" height="1920" alt="macan-gallery-pro-v322-github-post" src="https://github.com/user-attachments/assets/6118b5dc-833a-441c-980e-4a782a02be2e" />
+<img width="1080" height="1445" alt="macan-gallery-pro-v370" src="https://github.com/user-attachments/assets/82525db0-384f-45b6-b681-f822347e6076" />
+
 
 
 
 
 
 ---
-📝 Changelov v3.2.2
-- Added icon svg toolbar (set as wallpaper)
-- Added new context menu (set as wallpaper)
+📝 Changelov v3.7.0
+- Added a full-screen function when clicking on the slideshow (full screen without a toolbar/status bar, only displaying the image)
+- Added a new button to the toolbar: the fit-to-screen button
+- Added a new button to the status bar (full screen)
+- Added a new button to the status bar (reset zoom)
+- Added a keyboard shortcut fit-to-screen (F)
 ---
 
 - 🧱 **Frameless UI**
