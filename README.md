@@ -45,12 +45,9 @@ It is designed as a professional gallery manager with high performance, an elega
 
 
 ---
-📝 Changelov v3.7.0
-- Added a full-screen function when clicking on the slideshow (full screen without a toolbar/status bar, only displaying the image)
-- Added a new button to the toolbar: the fit-to-screen button
-- Added a new button to the status bar (full screen)
-- Added a new button to the status bar (reset zoom)
-- Added a keyboard shortcut fit-to-screen (F)
+📝 Changelov v3.7.2
+- Fixed Manage Folder QSS StyleSheet
+- Fix Fit to Screen SVG Icon
 ---
 
 - 🧱 **Frameless UI**
