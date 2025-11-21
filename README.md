@@ -45,9 +45,8 @@ It is designed as a professional gallery manager with high performance, an elega
 
 
 ---
-📝 Changelov v3.7.2
-- Fixed Manage Folder QSS StyleSheet
-- Fix Fit to Screen SVG Icon
+📝 Changelov v3.7.5
+- Update Framework
 ---
 
 - 🧱 **Frameless UI**
