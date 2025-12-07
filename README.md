@@ -45,8 +45,8 @@ It is designed as a professional gallery manager with high performance, an elega
 
 
 ---
-📝 Changelov v3.7.7
-- Changed Back Button
+📝 Changelov v3.8.0
+- Added Check Update
 ---
 
 - 🧱 **Frameless UI**
