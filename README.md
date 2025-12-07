@@ -37,7 +37,8 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1080" height="1445" alt="macan-gallery-pro-v370" src="https://github.com/user-attachments/assets/82525db0-384f-45b6-b681-f822347e6076" />
+<img width="1080" height="1191" alt="macan-gallery-pro-v380" src="https://github.com/user-attachments/assets/c3ff3024-7ab8-4ef4-8e6c-1a0139dd22ff" />
+
 
 
 
