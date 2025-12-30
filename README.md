@@ -37,17 +37,17 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1080" height="1191" alt="macan-gallery-pro-v380" src="https://github.com/user-attachments/assets/c3ff3024-7ab8-4ef4-8e6c-1a0139dd22ff" />
-
-
-
-
-
+<img width="1365" height="767" alt="Screenshot 2025-12-30 121808" src="https://github.com/user-attachments/assets/f07a9afe-cdc8-4239-9bd4-6b93e4def689" />
+<img width="1365" height="767" alt="Screenshot 2025-12-30 121925" src="https://github.com/user-attachments/assets/6412391e-8688-4cc1-a0ce-0525c4f19674" />
 
 
 ---
-📝 Changelov v3.8.0
-- Added Check Update
+📝 Changelov v4.5.0
+- Added Crop
+- Added Undo/Redo
+- Added Effect Manager  
+- Added Quick Effect:
+  Grayscale, Sepia, Invert, Sharpen, Auto Enhance
 ---
 
 - 🧱 **Frameless UI**
