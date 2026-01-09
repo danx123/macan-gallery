@@ -42,12 +42,8 @@ It is designed as a professional gallery manager with high performance, an elega
 
 
 ---
-📝 Changelov v4.5.0
-- Added Crop
-- Added Undo/Redo
-- Added Effect Manager  
-- Added Quick Effect:
-  Grayscale, Sepia, Invert, Sharpen, Auto Enhance
+📝 Changelov v4.6.0
+- Fixed crop function
 ---
 
 - 🧱 **Frameless UI**
