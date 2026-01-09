@@ -1,6 +1,7 @@
 {
-    "version": "4.5.0",
+    "version": "4.6.0",
     "release_url": "https://github.com/danx123/macan-gallery/releases/latest",
-    "message": "New version available! Added Effect Manager."
+    "message": "Fixed crop function."
 
 }
+
