@@ -40,10 +40,6 @@ It is designed as a professional gallery manager with high performance, an elega
 <img width="1365" height="767" alt="Screenshot 2025-12-30 121808" src="https://github.com/user-attachments/assets/f07a9afe-cdc8-4239-9bd4-6b93e4def689" />
 <img width="1365" height="767" alt="Screenshot 2025-12-30 121925" src="https://github.com/user-attachments/assets/6412391e-8688-4cc1-a0ce-0525c4f19674" />
 
-
----
-📝 Changelov v4.6.0
-- Fixed crop function
 ---
 
 - 🧱 **Frameless UI**
