@@ -1,7 +1,8 @@
 {
-    "version": "4.6.0",
+    "version": "4.7.0",
     "release_url": "https://github.com/danx123/macan-gallery/releases/latest",
-    "message": "Fixed crop function."
+    "message": "Fixed button overlay (next)."
 
 }
+
 
