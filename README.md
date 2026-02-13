@@ -37,8 +37,10 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1365" height="767" alt="Screenshot 2025-12-30 121808" src="https://github.com/user-attachments/assets/f07a9afe-cdc8-4239-9bd4-6b93e4def689" />
-<img width="1365" height="767" alt="Screenshot 2025-12-30 121925" src="https://github.com/user-attachments/assets/6412391e-8688-4cc1-a0ce-0525c4f19674" />
+<img width="1034" height="718" alt="Screenshot 2026-02-13 180652" src="https://github.com/user-attachments/assets/1d9b29b0-0ecc-492a-b6bb-91c95387276f" />
+<img width="1035" height="722" alt="Screenshot 2026-02-13 180717" src="https://github.com/user-attachments/assets/6c116b29-7a1a-43ed-8d32-2266ff6dd96c" />
+
+
 
 ---
 
