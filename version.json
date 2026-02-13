@@ -1,9 +1,10 @@
 {
-    "version": "5.7.0",
+    "version": "6.7.0",
     "release_url": "https://github.com/danx123/macan-gallery/releases/latest",
-    "message": "update framework."
+    "message": "added macan explorer"
 
 }
+
 
 
 
