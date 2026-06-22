@@ -5,11 +5,6 @@ Macan Gallery is a modern gallery application developed with Python, PySide6, an
 It is designed as a professional gallery manager with high performance, an elegant interface, and full support for efficient caching, sorting, zooming, and viewing of high-resolution images.
 
 ---
-<img width="1024" height="1536" alt="macan gallery pro v7 6 6" src="https://github.com/user-attachments/assets/0c499b8a-abd0-4e03-9536-70728e61f21b" />
-
-
-
----
 
 ## 🚀 Key Features
 
@@ -42,7 +37,15 @@ It is designed as a professional gallery manager with high performance, an elega
 ---
 
 ## 📸 Screenshot
-<img width="1022" height="734" alt="Screenshot 2026-06-14 214543" src="https://github.com/user-attachments/assets/1d967489-db28-4e77-a92e-5f22082a1b18" />
+<img width="1019" height="733" alt="Screenshot 2026-06-22 090715" src="https://github.com/user-attachments/assets/0ede1183-7c97-4321-8d14-e36ebd24f837" />
+
+<img width="1018" height="730" alt="Screenshot 2026-06-22 090731" src="https://github.com/user-attachments/assets/79b8dc7a-d48d-43d6-bb91-377f2e99a726" />
+
+<img width="1021" height="732" alt="Screenshot 2026-06-22 090748" src="https://github.com/user-attachments/assets/0a8ce623-eee4-4e73-9883-76973abb1075" />
+
+<img width="1017" height="735" alt="Screenshot 2026-06-22 090801" src="https://github.com/user-attachments/assets/9d274661-2bd2-433b-8f95-d1aed0fab922" />
+
+
 
 
 
